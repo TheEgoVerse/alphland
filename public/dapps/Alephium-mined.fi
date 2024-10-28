@@ -1,0 +1,63 @@
+{
+  "name": "mined.fi",
+  "description": "Mined.fi is a DePIN project—a liquid mining platform that democratizes ASIC mining by decentralizing operations and redistributing rewards to individuals via vaults. Scalable to any PoW coins, users can stake tokens in vaults with a few clicks to earn rewards without mining hardware or technical expertise. Beyond accessibility, mined.fi is committed to sustainability, powering mining with green energy and employing carbon offsetting solutions where necessary.",
+  "short_description": "Mining made liquid",
+  "tags": [
+    "ComingSoon"
+  ],
+  "links": {
+    "website": "https://www.mined.fi/",
+    "careers": "",
+    "twitter": "https://x.com/mined_fi",
+    "telegram": "https://t.me/minedfi",
+    "discord": "",
+    "github": "",
+    "youtube": "",
+    "medium": "https://medium.com/@mined.fi",
+    "mirror": "",
+    "linkedin": ""
+  },
+  "twitterName": "@mined_fi",
+  "teamInfo": {
+    "contactEmail": "minedfi@proton.me",
+    "founded": "2024-09",
+    "anonymous": true
+  },
+  "tokens": [
+    {
+      "address": "",
+      "symbol": "MINE"
+    }
+  ],
+  "nft": {
+    "collectionContract": "",
+    "collectionLink": "",
+    "collectionName": "",
+    "collectionPreview": [
+      {
+        "image_url": "",
+        "name": ""
+      },
+      {
+        "image_url": "",
+        "name": ""
+      }
+    ]
+  },
+  "media": {
+    "logoUrl": "https://i.imgur.com/FmKjc3b.png",
+    "bannerUrl": "https://i.imgur.com/Mi4C4gb.png",
+    "previewUrl": "https://i.imgur.com/Pky9Rp3.png",
+    "videoUrl": "",
+    "gallery": [
+      {
+        "url": "",
+        "description": ""
+      }
+    ]
+  }
+}
+
+    ]
+  }
+}
