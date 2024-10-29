@@ -1,0 +1,37 @@
+{
+  "name": "RalphBuilder",
+  "description": "RalphBuilder is a platform for building and deploying smart contracts using AI on the Alephium blockchain. It allows users to create, deploy, and manage their own smart contracts.",
+  "short_description": "RalphBuilder is a platform for building and deploying smart contracts using AI on the Alephium blockchain.",
+  "tags": ["Utility", "Infrastructure", "ComingSoon"],
+  "contracts": [],
+  "councils_choice": true,
+  "audits": [],
+  "verified": false,
+  "dotw": false,
+  "links": {
+    "website": "https://ralphbuilder.org/",
+    "careers": "",
+    "twitter": "https://twitter.com/ralphbuilder",
+    "telegram": "https://t.me/ralphbuildercommunity",
+    "discord": "",
+    "github": "https://github.com/RalphBuilder",
+    "youtube": "",
+    "medium": "",
+    "mirror": ""
+  },
+  "twitterName": "RalphBuilder",
+  "teamInfo": {
+    "contactEmail": "contact@ralphbuilder.org",
+    "founded": "2024-06-20T00:00:00.000Z",
+    "anonymous": true
+  },
+  "tokens": [],
+  "nft": {},
+  "media": {
+    "logoUrl": "/dapps/ralphbuilder/ralphbuilder-alphland-logo.png",
+    "bannerUrl": "/dapps/ralphbuilder/ralphbuilder-alphland-banner.png",
+    "previewUrl": "/dapps/ralphbuilder/ralphbuilder-alphland-preview.png",
+    "videoUrl": "",
+    "gallery": []
+  }
+}
