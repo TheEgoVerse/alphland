@@ -1,0 +1,39 @@
+{
+  "name": "Alphy",
+  "description": "Alphy is your one-stop crypto gaming fair on Alephium! Packed with games like lottery, coinflip, dice, and more, Alphy delivers nonstop fun with fair, verifiable results. Test your luck across a variety of games and win big rewards in the Alephium ecosystem!",
+  "short_description": "Decentralized Game Hub",
+  "tags": ["DeFi", "Games", "NFTs", "Social", "ComingSoon"],
+  "group": "Group 0",
+  "audits": [],
+  "verified": false,
+  "councils_choice": true,
+  "dotw": false,
+
+  "links": {
+    "website": "https://alphy.art",
+    "careers": "",
+    "twitter": "https://x.com/alphyecosystem",
+    "telegram": "https://t.me/+KFE8GHy3rzkwNWRk",
+    "discord": "https://discord.com/invite/BcsUQRg8pZ",
+    "github": "",
+    "youtube": "",
+    "medium": "",
+    "mirror": "",
+    "linkedin": ""
+  },
+  "twitterName": "alphyecosystem",
+  "teamInfo": {
+    "contactEmail": "captainralph42@gmail.com",
+    "founded": "2024-06-21T00:00:00.000Z",
+    "anonymous": true
+  },
+  "tokens": [],
+  "nft": "",
+  "media": {
+    "logoUrl": "/dapps/alphy/alphy_logo.webp",
+    "bannerUrl": "/dapps/alphy/alphy_banner.webp",
+    "previewUrl": "/dapps/alphy/alphy_preview.webp",
+    "videoUrl": "",
+    "gallery": []
+  }
+}
