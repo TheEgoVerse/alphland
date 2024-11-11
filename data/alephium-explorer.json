@@ -1,7 +1,7 @@
 {
   "name": "Alephium Explorer",
-  "description": "This Dashboard leverages onchain data to showcase $ALPH development and usage on Ethereum",
-  "short_description": "Explore detailled stats about Alephium network on Ethereum side.",
+  "description": "This explorer leverages onchain data to showcase $ALPH development",
+  "short_description": "Explore detailled stats about Alephium network",
   "tags": ["Stats"],
   "contracts": [],
   "audits": [],
@@ -9,7 +9,7 @@
   "councils_choice": true,
   "dotw": false,
   "links": {
-    "website": "https://bridge.alephium.org",
+    "website": "https://explorer.alephium.org",
     "careers": "",
     "twitter": "https://twitter.com/alephium",
     "telegram": "https://t.me/alephiumgroup",
