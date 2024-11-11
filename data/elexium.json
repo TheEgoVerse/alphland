@@ -1,0 +1,40 @@
+{
+  "name": "Elexium Finance",
+  "description": "Welcome to Elexium: The People's Choice. Enter the arena to explore what aims to be Alephium's liquidity centre, steeped in Ancient Greek wisdom and Demokratia. Utilising a vote escrowed model, we are for the people, by the people, and your Elexium NFT locks serve as your ticket to the ecosystem.",
+  "short_description": "Elexium: The People's Choice",
+  "tags": ["DeFi"],
+  "contracts": [],
+  "audits": [],
+  "verified": false,
+  "dotw": false,
+  "councils_choice": false,
+  "links": {
+    "website": "https://elexium.finance/",
+    "careers": "",
+    "twitter": "https://x.com/ElexiumFinance",
+    "telegram": "https://t.me/elexiumfinance",
+    "discord": "https://discord.gg/KsS8k6PvBw",
+    "github": "",
+    "youtube": "",
+    "medium": "",
+    "mirror": ""
+  },
+  "teamInfo": {
+    "contactEmail": "",
+    "founded": "2024-06-20T00:00:00.000Z",
+    "anonymous": false
+  },
+  "twitterName": "ElexiumFinance",
+  "tokens": [
+    {
+      "address": "28LgMeQGdvtXfsvWhpNNVx1DoSiz7TzrATv9qxMQP5is9",
+      "symbol": "EX"
+    }
+  ],
+  "nft": {},
+  "media": {
+    "logoUrl": "/dapps/elexium/logo.png",
+    "bannerUrl": "/dapps/elexium/preview.png",
+    "previewUrl": "/dapps/elexium/preview.png"
+  }
+}
