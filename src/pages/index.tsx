@@ -1,4 +1,4 @@
-import featuredDappImage from "../../public/dapps/deadrare/dapp-header-deadrare.png";
+import featuredDappImage from "../../public/dapps/alphbanx/alphbanx-alphland-banner.png";
 import FilterButton from "../components/Button/FilterButton";
 import Card from "../components/Card/Card";
 import Categories from "../components/Categories/Categories";
@@ -119,9 +119,9 @@ const Home = ({
           />
           <div className="cards">
             <DappOfTheMonth
-              name="Deadrare"
+              name="Alphbanx"
               image={featuredDappImage}
-              url="/deadrare"
+              url="/alphbanx"
               className="featured"
             />
             <h3 className="lg:hidden font-semibold text-xl leading-none mb-5">
