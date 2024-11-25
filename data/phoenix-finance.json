@@ -42,9 +42,9 @@
   ],
   "nft": {},
   "media": {
-    "logoUrl": "/dapps/phoenix-finance/phoenix-logo.png",
-    "bannerUrl": "/dapps/phoenix-finance/phoenix-banner.png",
-    "previewUrl": "/dapps/phoenix-finance/phoenix-preview.png",
+    "logoUrl": "/dapps/phoenix-finance/phoenix-logo.webp",
+    "bannerUrl": "/dapps/phoenix-finance/phoenix-banner.webp",
+    "previewUrl": "/dapps/phoenix-finance/phoenix-preview.webp",
     "videoUrl": "",
     "gallery": []
   }

@@ -4,18 +4,20 @@
   "short_description": "Decentralized NFT Marketplace",
   "tags": ["DeFi", "NFTs"],
   "councils_choice": true,
-  "contracts": [    {
-    "name": "Alphaga token",
-    "address": "26Mirs33zojnVMRkqVDJtMZvVZcbAFVyxGojGw7UtWp2K"
-  },
-  {
-    "name": "ALPH/ALPHAGA",
-    "address": "23cXw23ZjRqKc7i185ZoH8vh9KT4XTumVRWpVLUecgLMd"
-  },
-  {
-    "name": "ALPH",
-    "address": "23cXw23ZjRqKc7i185ZoH8vh9KT4XTumVRWpVLUecgLMd"
-  }],
+  "contracts": [
+    {
+      "name": "Alphaga token",
+      "address": "26Mirs33zojnVMRkqVDJtMZvVZcbAFVyxGojGw7UtWp2K"
+    },
+    {
+      "name": "ALPH/ALPHAGA",
+      "address": "23cXw23ZjRqKc7i185ZoH8vh9KT4XTumVRWpVLUecgLMd"
+    },
+    {
+      "name": "ALPH",
+      "address": "23cXw23ZjRqKc7i185ZoH8vh9KT4XTumVRWpVLUecgLMd"
+    }
+  ],
   "audits": [{}],
   "verified": false,
   "dotw": false,
@@ -38,9 +40,9 @@
     }
   ],
   "media": {
-    "logoUrl": "/dapps/alphaga/logo.png",
-    "bannerUrl": "/dapps/alphaga/banner.png",
-    "previewUrl": "/dapps/alphaga/preview.png",
+    "logoUrl": "/dapps/alphaga/logo.webp",
+    "bannerUrl": "/dapps/alphaga/banner.webp",
+    "previewUrl": "/dapps/alphaga/preview.webp",
     "videoUrl": "",
     "gallery": [{}]
   }

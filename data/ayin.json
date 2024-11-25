@@ -40,9 +40,9 @@
     }
   ],
   "media": {
-    "logoUrl": "/dapps/ayin/dapp-icon-ayin.jpg",
-    "bannerUrl": "/dapps/ayin/dapp-header-ayin.jpg",
-    "previewUrl": "/dapps/ayin/dapp-header-ayin.jpg",
+    "logoUrl": "/dapps/ayin/dapp-icon-ayin.webp",
+    "bannerUrl": "/dapps/ayin/dapp-header-ayin.webp",
+    "previewUrl": "/dapps/ayin/dapp-header-ayin.webp",
     "videoUrl": "",
     "gallery": [{}]
   }

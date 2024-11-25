@@ -23,9 +23,9 @@
     "anonymous": false
   },
   "media": {
-    "logoUrl": "/dapps/DIA/DIA-icon.png",
-    "bannerUrl": "/dapps/DIA/DIA-header.png",
-    "previewUrl": "/dapps/DIA/DIA-preview.png"
+    "logoUrl": "/dapps/DIA/DIA-icon.webp",
+    "bannerUrl": "/dapps/DIA/DIA-header.webp",
+    "previewUrl": "/dapps/DIA/DIA-preview.webp"
   },
   "audits": [],
   "tokens": []

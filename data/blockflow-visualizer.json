@@ -29,9 +29,9 @@
   "tokens": [],
   "nft": {},
   "media": {
-    "logoUrl": "/dapps/blockflow-visualizer/visualizer-logo.png",
-    "bannerUrl": "/dapps/blockflow-visualizer/visualizer-banner.png",
-    "previewUrl": "/dapps/blockflow-visualizer/visualizer-preview.png",
+    "logoUrl": "/dapps/blockflow-visualizer/visualizer-logo.webp",
+    "bannerUrl": "/dapps/blockflow-visualizer/visualizer-banner.webp",
+    "previewUrl": "/dapps/blockflow-visualizer/visualizer-preview.webp",
     "videoUrl": "",
     "gallery": []
   }

@@ -19,9 +19,9 @@
     "anonymous": false
   },
   "media": {
-    "logoUrl": "/dapps/now-nodes/iconNN.png",
-    "bannerUrl": "/dapps/now-nodes/headerNN.png",
-    "previewUrl": "/dapps/now-nodes/previewNN.png"
+    "logoUrl": "/dapps/now-nodes/iconNN.webp",
+    "bannerUrl": "/dapps/now-nodes/headerNN.webp",
+    "previewUrl": "/dapps/now-nodes/previewNN.webp"
   },
   "audits": [],
   "tokens": []

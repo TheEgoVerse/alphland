@@ -32,8 +32,8 @@
     "anonymous": true
   },
   "media": {
-    "logoUrl": "/dapps/doh/doh-logo.png",
-    "bannerUrl": "/dapps/doh/doh-banner.png",
-    "previewUrl": "/dapps/doh/doh-preview.png"
+    "logoUrl": "/dapps/doh/doh-logo.webp",
+    "bannerUrl": "/dapps/doh/doh-banner.webp",
+    "previewUrl": "/dapps/doh/doh-preview.webp"
   }
 }

@@ -30,9 +30,9 @@
   "tokens": [],
   "nft": {},
   "media": {
-    "logoUrl": "/dapps/hashlock/logo.jpg",
-    "bannerUrl": "/dapps/hashlock/header.jpg",
-    "previewUrl": "/dapps/hashlock/preview.jpg",
+    "logoUrl": "/dapps/hashlock/logo.webp",
+    "bannerUrl": "/dapps/hashlock/header.webp",
+    "previewUrl": "/dapps/hashlock/preview.webp",
     "videoUrl": "",
     "gallery": []
   }

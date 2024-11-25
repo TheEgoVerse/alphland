@@ -55,9 +55,9 @@
     "anonymous": false
   },
   "media": {
-    "logoUrl": "/dapps/alephium-bridge/dapp-icon-alephium-bridge.png",
-    "bannerUrl": "/dapps/alephium-bridge/dapp-header-alephium-bridge.png",
-    "previewUrl": "/dapps/alephium-bridge/dapp-preview-alephium-bridge.png"
+    "logoUrl": "/dapps/alephium-bridge/dapp-icon-alephium-bridge.webp",
+    "bannerUrl": "/dapps/alephium-bridge/dapp-header-alephium-bridge.webp",
+    "previewUrl": "/dapps/alephium-bridge/dapp-preview-alephium-bridge.webp"
   },
   "audits": [],
   "tokens": []

@@ -47,9 +47,9 @@
     ]
   },
   "media": {
-    "logoUrl": "/dapps/alph-pro/logo-320x320.png",
-    "bannerUrl": "/dapps/alph-pro/banner-1920x400.png",
-    "previewUrl": "/dapps/alph-pro/preview-700x400.png",
+    "logoUrl": "/dapps/alph-pro/logo-320x320.webp",
+    "bannerUrl": "/dapps/alph-pro/banner-1920x400.webp",
+    "previewUrl": "/dapps/alph-pro/preview-700x400.webp",
     "videoUrl": "",
     "gallery": []
   }

@@ -27,9 +27,9 @@
     "anonymous": false
   },
   "media": {
-    "logoUrl": "/dapps/alephium-toolkit/alephium-toolkit-icon.png",
-    "bannerUrl": "/dapps/alephium-toolkit/alephium-toolkit-banner.png",
-    "previewUrl": "/dapps/alephium-toolkit/alephium-toolkit-banner.png"
+    "logoUrl": "/dapps/alephium-toolkit/alephium-toolkit-icon.webp",
+    "bannerUrl": "/dapps/alephium-toolkit/alephium-toolkit-banner.webp",
+    "previewUrl": "/dapps/alephium-toolkit/alephium-toolkit-banner.webp"
   },
   "audits": [],
   "tokens": []

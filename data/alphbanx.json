@@ -25,14 +25,12 @@
     "founded": "",
     "anonymous": true
   },
-  "tokens": [
-   
-  ],
+  "tokens": [],
   "nft": {},
   "media": {
-    "logoUrl": "/dapps/alphbanx/alphbanx-alphland-logo.png",
-    "bannerUrl": "/dapps/alphbanx/alphbanx-alphland-banner.png",
-    "previewUrl": "/dapps/alphbanx/alphbanx-alphland-preview.png",
+    "logoUrl": "/dapps/alphbanx/alphbanx-alphland-logo.webp",
+    "bannerUrl": "/dapps/alphbanx/alphbanx-alphland-banner.webp",
+    "previewUrl": "/dapps/alphbanx/alphbanx-alphland-preview.webp",
     "videoUrl": "",
     "gallery": []
   }

@@ -26,8 +26,8 @@
   "audits": [],
   "tokens": [],
   "media": {
-    "logoUrl": "/dapps/tipalph/TipALPH_logo_320x320.png",
-    "bannerUrl": "/dapps/tipalph/TipALPH_banner_1920x400.png",
-    "previewUrl": "/dapps/tipalph/TipALPH_preview_700x400.png"
+    "logoUrl": "/dapps/tipalph/TipALPH_logo_320x320.webp",
+    "bannerUrl": "/dapps/tipalph/TipALPH_banner_1920x400.webp",
+    "previewUrl": "/dapps/tipalph/TipALPH_preview_700x400.webp"
   }
 }

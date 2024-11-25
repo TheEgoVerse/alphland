@@ -30,8 +30,8 @@
   "nft": {},
   "media": {
     "logoUrl": "/dapps/alephium-etherscan/logo.svg",
-    "bannerUrl": "/dapps/alephium-etherscan/banner.png",
-    "previewUrl": "/dapps/alephium-etherscan/banner.png",
+    "bannerUrl": "/dapps/alephium-etherscan/banner.webp",
+    "previewUrl": "/dapps/alephium-etherscan/banner.webp",
     "videoUrl": "",
     "gallery": []
   }

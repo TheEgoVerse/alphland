@@ -33,35 +33,35 @@
     "collectionName": "What The Duck",
     "collectionPreview": [
       {
-        "image_url": "/dapps/what-the-duck/collection-nft-37.png",
+        "image_url": "/dapps/what-the-duck/collection-nft-37.webp",
         "name": "Duck: 37"
       },
       {
-        "image_url": "/dapps/what-the-duck/collection-nft-14.png",
+        "image_url": "/dapps/what-the-duck/collection-nft-14.webp",
         "name": "Duck: 14"
       },
       {
-        "image_url": "/dapps/what-the-duck/collection-nft-73.png",
+        "image_url": "/dapps/what-the-duck/collection-nft-73.webp",
         "name": "Duck: 73"
       },
       {
-        "image_url": "/dapps/what-the-duck/collection-nft-02.png",
+        "image_url": "/dapps/what-the-duck/collection-nft-02.webp",
         "name": "Duck: 2"
       }
     ]
   },
   "media": {
-    "logoUrl": "/dapps/what-the-duck/what-the-duck-logo.png",
-    "bannerUrl": "/dapps/what-the-duck/what-the-duck-banner.png",
-    "previewUrl": "/dapps/what-the-duck/what-the-duck-preview.png",
+    "logoUrl": "/dapps/what-the-duck/what-the-duck-logo.webp",
+    "bannerUrl": "/dapps/what-the-duck/what-the-duck-banner.webp",
+    "previewUrl": "/dapps/what-the-duck/what-the-duck-preview.webp",
     "videoUrl": "https://theducklounge.com/grass.mp4",
     "gallery": [
       {
-        "url": "/dapps/what-the-duck/nest.png",
+        "url": "/dapps/what-the-duck/nest.webp",
         "description": "The Nest"
       },
       {
-        "url": "/dapps/what-the-duck/game.png",
+        "url": "/dapps/what-the-duck/game.webp",
         "description": "Quack Attack"
       }
     ]

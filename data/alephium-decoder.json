@@ -16,9 +16,9 @@
     "anonymous": false
   },
   "media": {
-    "logoUrl": "/dapps/alephium-decoder/alephium-decoder-logo.png",
-    "bannerUrl": "/dapps/alephium-decoder/alephium-decoder-banner.png",
-    "previewUrl": "/dapps/alephium-decoder/alephium-decoder-preview.png"
+    "logoUrl": "/dapps/alephium-decoder/alephium-decoder-logo.webp",
+    "bannerUrl": "/dapps/alephium-decoder/alephium-decoder-banner.webp",
+    "previewUrl": "/dapps/alephium-decoder/alephium-decoder-preview.webp"
   },
   "audits": [],
   "tokens": []

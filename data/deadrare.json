@@ -32,23 +32,23 @@
     "collectionName": "ALPHatauri",
     "collectionPreview": [
       {
-        "image_url": "/dapps/deadrare/collection-nft-01.png",
+        "image_url": "/dapps/deadrare/collection-nft-01.webp",
         "name": "ALPHatauri #4"
       },
       {
-        "image_url": "/dapps/deadrare/collection-nft-02.png",
+        "image_url": "/dapps/deadrare/collection-nft-02.webp",
         "name": "ALPHatauri #42"
       },
       {
-        "image_url": "/dapps/deadrare/collection-nft-03.png",
+        "image_url": "/dapps/deadrare/collection-nft-03.webp",
         "name": "ALPHatauri #18"
       }
     ]
   },
   "media": {
-    "logoUrl": "/dapps/deadrare/dapp-icon-deadrare.png",
-    "bannerUrl": "/dapps/deadrare/dapp-header-deadrare.png",
-    "previewUrl": "/dapps/deadrare/dapp-preview-deadrare.png",
+    "logoUrl": "/dapps/deadrare/dapp-icon-deadrare.webp",
+    "bannerUrl": "/dapps/deadrare/dapp-header-deadrare.webp",
+    "previewUrl": "/dapps/deadrare/dapp-preview-deadrare.webp",
     "videoUrl": "",
     "gallery": []
   }

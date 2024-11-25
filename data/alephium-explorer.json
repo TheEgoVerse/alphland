@@ -30,8 +30,8 @@
   "nft": {},
   "media": {
     "logoUrl": "/dapps/alephium-explorer/logo.svg",
-    "bannerUrl": "/dapps/alephium-explorer/banner.png",
-    "previewUrl": "/dapps/alephium-explorer/banner.png",
+    "bannerUrl": "/dapps/alephium-explorer/banner.webp",
+    "previewUrl": "/dapps/alephium-explorer/banner.webp",
     "videoUrl": "",
     "gallery": []
   }

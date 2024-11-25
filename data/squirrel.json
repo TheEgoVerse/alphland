@@ -32,9 +32,9 @@
     }
   ],
   "media": {
-    "logoUrl": "/dapps/squirrel/squirrel-logo.png",
-    "bannerUrl": "/dapps/squirrel/squirrel-banner.png",
-    "previewUrl": "/dapps/squirrel/squirrel-preview.png",
+    "logoUrl": "/dapps/squirrel/squirrel-logo.webp",
+    "bannerUrl": "/dapps/squirrel/squirrel-banner.webp",
+    "previewUrl": "/dapps/squirrel/squirrel-preview.webp",
     "videoUrl": "",
     "gallery": [{}]
   }

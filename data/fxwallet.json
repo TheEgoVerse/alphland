@@ -28,9 +28,9 @@
   "tokens": [],
   "nft": {},
   "media": {
-    "logoUrl": "/dapps/fxwallet/fxwallet-logo.png",
-    "bannerUrl": "/dapps/fxwallet/fxwallet-banner.png",
-    "previewUrl": "/dapps/fxwallet/fxwallet-preview.png",
+    "logoUrl": "/dapps/fxwallet/fxwallet-logo.webp",
+    "bannerUrl": "/dapps/fxwallet/fxwallet-banner.webp",
+    "previewUrl": "/dapps/fxwallet/fxwallet-preview.webp",
     "videoUrl": "",
     "gallery": []
   }

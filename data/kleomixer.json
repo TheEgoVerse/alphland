@@ -31,9 +31,9 @@
     "anonymous": true
   },
   "media": {
-    "logoUrl": "/dapps/kleomixer/kleomixer-logo.png",
-    "bannerUrl": "/dapps/kleomixer/kleomixer-banner.png",
-    "previewUrl": "/dapps/kleomixer/kleomixer-preview.png",
+    "logoUrl": "/dapps/kleomixer/kleomixer-logo.webp",
+    "bannerUrl": "/dapps/kleomixer/kleomixer-banner.webp",
+    "previewUrl": "/dapps/kleomixer/kleomixer-preview.webp",
     "videoUrl": "https://www.youtube.com/watch?v=4Pj4-bLLDrs"
   },
   "audits": [],

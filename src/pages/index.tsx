@@ -1,4 +1,4 @@
-import featuredDappImage from "../../public/dapps/alphbanx/alphbanx-alphland-banner.png";
+import featuredDappImage from "../../public/dapps/alphbanx/alphbanx-alphland-banner.webp";
 import FilterButton from "../components/Button/FilterButton";
 import Card from "../components/Card/Card";
 import Categories from "../components/Categories/Categories";

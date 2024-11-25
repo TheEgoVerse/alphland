@@ -29,9 +29,9 @@
   "tokens": [],
   "nft": {},
   "media": {
-    "logoUrl": "/dapps/alphpost/logo.png",
-    "bannerUrl": "/dapps/alphpost/banner.png",
-    "previewUrl": "/dapps/alphpost/preview.png",
+    "logoUrl": "/dapps/alphpost/logo.webp",
+    "bannerUrl": "/dapps/alphpost/banner.webp",
+    "previewUrl": "/dapps/alphpost/preview.webp",
     "videoUrl": "",
     "gallery": []
   }

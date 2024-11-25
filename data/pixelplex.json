@@ -30,9 +30,9 @@
   "tokens": [],
   "nft": {},
   "media": {
-    "logoUrl": "/dapps/pixelplex/logo.jpg",
-    "bannerUrl": "/dapps/pixelplex/banner.jpg",
-    "previewUrl": "/dapps/pixelplex/preview.jpg",
+    "logoUrl": "/dapps/pixelplex/logo.webp",
+    "bannerUrl": "/dapps/pixelplex/banner.webp",
+    "previewUrl": "/dapps/pixelplex/preview.webp",
     "videoUrl": "",
     "gallery": []
   }

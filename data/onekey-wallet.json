@@ -29,41 +29,41 @@
   "tokens": [],
   "nft": {},
   "media": {
-    "logoUrl": "/dapps/onekey-wallet/logo.png",
-    "bannerUrl": "/dapps/onekey-wallet/banner.png",
-    "previewUrl": "/dapps/onekey-wallet/preview.png",
+    "logoUrl": "/dapps/onekey-wallet/logo.webp",
+    "bannerUrl": "/dapps/onekey-wallet/banner.webp",
+    "previewUrl": "/dapps/onekey-wallet/preview.webp",
     "videoUrl": "",
     "gallery": [
       {
-        "url": "/dapps/onekey-wallet/screenshot-1.png",
+        "url": "/dapps/onekey-wallet/screenshot-1.webp",
         "description": "OneKey Wallet"
       },
       {
-        "url": "/dapps/onekey-wallet/screenshot-2.png",
+        "url": "/dapps/onekey-wallet/screenshot-2.webp",
         "description": "OneKey Wallet Supported Chains"
       },
       {
-        "url": "/dapps/onekey-wallet/screenshot-3.png",
+        "url": "/dapps/onekey-wallet/screenshot-3.webp",
         "description": "OneKey Wallet Features"
       },
       {
-        "url": "/dapps/onekey-wallet/screenshot-4.png",
+        "url": "/dapps/onekey-wallet/screenshot-4.webp",
         "description": "OneKey Wallet Features"
       },
       {
-        "url": "/dapps/onekey-wallet/screenshot-5.png",
+        "url": "/dapps/onekey-wallet/screenshot-5.webp",
         "description": "OneKey Wallet Support Hardware Wallet"
       },
       {
-        "url": "/dapps/onekey-wallet/screenshot-6.png",
+        "url": "/dapps/onekey-wallet/screenshot-6.webp",
         "description": "Wallet Wallet Features"
       },
       {
-        "url": "/dapps/onekey-wallet/screenshot-7.png",
+        "url": "/dapps/onekey-wallet/screenshot-7.webp",
         "description": "Wallet Wallet Features"
       },
       {
-        "url": "/dapps/onekey-wallet/screenshot-8.png",
+        "url": "/dapps/onekey-wallet/screenshot-8.webp",
         "description": "Wallet Wallet Features"
       }
     ]

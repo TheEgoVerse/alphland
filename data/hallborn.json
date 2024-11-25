@@ -30,9 +30,9 @@
   "tokens": [],
   "nft": {},
   "media": {
-    "logoUrl": "/dapps/halborn/logo.jpg",
-    "bannerUrl": "/dapps/halborn/header.jpg",
-    "previewUrl": "/dapps/halborn/preview.jpg",
+    "logoUrl": "/dapps/halborn/logo.webp",
+    "bannerUrl": "/dapps/halborn/header.webp",
+    "previewUrl": "/dapps/halborn/preview.webp",
     "videoUrl": "",
     "gallery": []
   }

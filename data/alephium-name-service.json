@@ -41,18 +41,18 @@
     "collectionName": "ANS Names",
     "collectionPreview": [
       {
-        "image_url": "/dapps/alephium-name-service/ALEPHIUM.png",
+        "image_url": "/dapps/alephium-name-service/ALEPHIUM.webp",
         "name": "Alephium"
       },
       {
-        "image_url": "/dapps/alephium-name-service/SPLINTER.png",
+        "image_url": "/dapps/alephium-name-service/SPLINTER.webp",
         "name": "Splinter"
       }
     ]
   },
   "media": {
-    "logoUrl": "/dapps/alephium-name-service/icon.jpg",
-    "bannerUrl": "/dapps/alephium-name-service/header.jpg",
-    "previewUrl": "/dapps/alephium-name-service/preview.png"
+    "logoUrl": "/dapps/alephium-name-service/icon.webp",
+    "bannerUrl": "/dapps/alephium-name-service/header.webp",
+    "previewUrl": "/dapps/alephium-name-service/preview.webp"
   }
 }

@@ -29,33 +29,33 @@
   "tokens": [],
   "nft": {},
   "media": {
-    "logoUrl": "/dapps/sezame-wallet/sezame-logo.png",
-    "bannerUrl": "/dapps/sezame-wallet/sezame-banner.png",
-    "previewUrl": "/dapps/sezame-wallet/sezame-preview.png",
+    "logoUrl": "/dapps/sezame-wallet/sezame-logo.webp",
+    "bannerUrl": "/dapps/sezame-wallet/sezame-banner.webp",
+    "previewUrl": "/dapps/sezame-wallet/sezame-preview.webp",
     "videoUrl": "",
     "gallery": [
       {
-        "url": "https://sezame.app/wp-content/uploads/2022/05/1.jpeg",
+        "url": "https://sezame.app/wp-content/uploads/2022/05/1.webp",
         "description": "Sign up to the Sezame Wallet"
       },
       {
-        "url": "https://sezame.app/wp-content/uploads/2022/05/2.jpeg",
+        "url": "https://sezame.app/wp-content/uploads/2022/05/2.webp",
         "description": "Sezame Wallet welcome screen"
       },
       {
-        "url": "https://sezame.app/wp-content/uploads/2022/05/3.jpeg",
+        "url": "https://sezame.app/wp-content/uploads/2022/05/3.webp",
         "description": "Sample wallet"
       },
       {
-        "url": "https://sezame.app/wp-content/uploads/2022/05/4.jpeg",
+        "url": "https://sezame.app/wp-content/uploads/2022/05/4.webp",
         "description": "Asset details"
       },
       {
-        "url": "https://sezame.app/wp-content/uploads/2022/05/5.jpeg",
+        "url": "https://sezame.app/wp-content/uploads/2022/05/5.webp",
         "description": "Wallet address sample"
       },
       {
-        "url": "https://sezame.app/wp-content/uploads/2022/05/6.jpeg",
+        "url": "https://sezame.app/wp-content/uploads/2022/05/6.webp",
         "description": "Wallet setup"
       }
     ]

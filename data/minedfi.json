@@ -33,9 +33,9 @@
     }
   ],
   "media": {
-    "logoUrl": "/dapps/minedfi/logo.png",
-    "bannerUrl": "/dapps/minedfi/banner.png",
-    "previewUrl": "/dapps/minedfi/preview.png",
+    "logoUrl": "/dapps/minedfi/logo.webp",
+    "bannerUrl": "/dapps/minedfi/banner.webp",
+    "previewUrl": "/dapps/minedfi/preview.webp",
     "videoUrl": "",
     "gallery": []
   }

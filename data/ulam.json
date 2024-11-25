@@ -2,14 +2,10 @@
   "name": "Ulam Labs",
   "description": "ULAM LABS specializes in designing, developing, and scaling solutions for businesses of all sizes, including conducting security audits. We worked with multiple projects and blockchains, on Alephium we have already been trusted by AYIN.",
   "short_description": "ULAM LABS • Software & Audits",
-  "tags": [
-    "Security"
-  ],
+  "tags": ["Security"],
   "group": "",
-  "contracts": [
-  ],
-  "audits": [
-  ],
+  "contracts": [],
+  "audits": [],
   "verified": false,
   "dotw": false,
   "councils_choice": false,
@@ -30,16 +26,13 @@
     "founded": "2016-01-01T00:00:00.000Z",
     "anonymous": false
   },
-  "tokens": [
-  ],
-  "nft": {
-  },
+  "tokens": [],
+  "nft": {},
   "media": {
-    "logoUrl": "/dapps/ulam/dapp-icon-ulam.png",
-    "bannerUrl": "/dapps/ulam/dapp-header-ulam.png",
-    "previewUrl": "/dapps/ulam/dapp-preview-ulam.png",
+    "logoUrl": "/dapps/ulam/dapp-icon-ulam.webp",
+    "bannerUrl": "/dapps/ulam/dapp-header-ulam.webp",
+    "previewUrl": "/dapps/ulam/dapp-preview-ulam.webp",
     "videoUrl": "",
-    "gallery": [
-    ]
+    "gallery": []
   }
 }

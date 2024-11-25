@@ -38,9 +38,9 @@
   ],
   "nft": {},
   "media": {
-    "logoUrl": "/dapps/ans/ans-logo.png",
-    "bannerUrl": "/dapps/ans/ans-banner.png",
-    "previewUrl": "/dapps/ans/ans-preview.png",
+    "logoUrl": "/dapps/ans/ans-logo.webp",
+    "bannerUrl": "/dapps/ans/ans-banner.webp",
+    "previewUrl": "/dapps/ans/ans-preview.webp",
     "videoUrl": "",
     "gallery": []
   }

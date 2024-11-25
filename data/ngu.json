@@ -39,9 +39,9 @@
     }
   ],
   "media": {
-    "logoUrl": "/dapps/ngu/ngu-logo.png",
-    "bannerUrl": "/dapps/ngu/ngu-banner.png",
-    "previewUrl": "/dapps/ngu/ngu-preview.png",
+    "logoUrl": "/dapps/ngu/ngu-logo.webp",
+    "bannerUrl": "/dapps/ngu/ngu-banner.webp",
+    "previewUrl": "/dapps/ngu/ngu-preview.webp",
     "videoUrl": "https://player.odycdn.com/v6/streams/7bb0024c9ccb6d4bb71d58c07a2cad8e5f36f7e9/86db3b.mp4"
   }
 }

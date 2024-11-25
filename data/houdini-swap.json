@@ -1,4 +1,3 @@
-
 {
   "name": "Houdini Swap",
   "description": "Houdini Swap is the leading compliant, non-custodial, cross-chain liquidity aggregator with a unique set of privacy features",
@@ -24,9 +23,9 @@
     "anonymous": true
   },
   "media": {
-    "logoUrl": "/dapps/houdini-swap/iconHS.png",
-    "bannerUrl": "/dapps/houdini-swap/bannerHS.png",
-    "previewUrl": "/dapps/houdini-swap/previewHS.png"
+    "logoUrl": "/dapps/houdini-swap/iconHS.webp",
+    "bannerUrl": "/dapps/houdini-swap/bannerHS.webp",
+    "previewUrl": "/dapps/houdini-swap/previewHS.webp"
   },
   "audits": [],
   "tokens": []

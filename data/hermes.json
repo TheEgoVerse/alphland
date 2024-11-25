@@ -29,9 +29,9 @@
   "tokens": [],
   "nft": "",
   "media": {
-    "logoUrl": "/dapps/hermes/hermes_logo.jpg",
-    "bannerUrl": "/dapps/hermes/hermes_banner.jpg",
-    "previewUrl": "/dapps/hermes/hermes_preview.jpg",
+    "logoUrl": "/dapps/hermes/hermes_logo.webp",
+    "bannerUrl": "/dapps/hermes/hermes_banner.webp",
+    "previewUrl": "/dapps/hermes/hermes_preview.webp",
     "videoUrl": "",
     "gallery": []
   }
