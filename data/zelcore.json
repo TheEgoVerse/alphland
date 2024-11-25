@@ -23,9 +23,9 @@
     "anonymous": false
   },
   "media": {
-    "logoUrl": "/dapps/zelcore/IconZ.png",
-    "bannerUrl": "/dapps/zelcore/BannerZ.png",
-    "previewUrl": "/dapps/zelcore/PreviewZ.png"
+    "logoUrl": "/dapps/zelcore/logo.png",
+    "bannerUrl": "/dapps/zelcore/banner.png",
+    "previewUrl": "/dapps/zelcore/preview.png"
   },
   "audits": [],
   "tokens": []
