@@ -28,13 +28,14 @@ the Alephium Wallet Browser Extension for Chrome or Firefox:
 If you are building on Alephium and want to showcase it in Alphland, you just need to submit a PR to this
 repository.
 
+### IMPORTANT: PLEASE 
+
 Steps:
 
-1. Create your images: 320x320 logo, 1920x400 banner and 700x400 preview. Use
+1. Create your images: 320x320 logo, 1920x400 banner and 700x400 preview. Please name them `logo.webp` `banner.webp` and `preview.webp`. Use
    the <a href="https://www.figma.com/file/6S69MxzfC99Sn6VxhqVuYL/Alphland-Figma-Template?type=design&node-id=0-1&mode=design&t=9k544zGf8bbibA5E-0">
    Alphland Figma template</a> to help you.
-2. Please optimise your images using tinypng.com – JPGs are best for photos and PNGs for graphics. Or you can convert to
-   WebP.
+2. Convert your images to webp. You can use a tool like [Cloudconvert](https://cloudconvert.com/webp-converter).
 3. Fork this repo and create a new folder with your project name under `/public/dapps/`
 4. Add your optimised images to the folder
 5. Copy [`dapp_data_example.json`](https://github.com/Cojodi/alphland/blob/develop/dapp_data_example.json), rename it
@@ -44,9 +45,9 @@ Steps:
 
 ```
   "media": {
-    "logoUrl": "/dapps/yourdapp/yourdapp-logo.png",
-    "bannerUrl": "/dapps/yourdapp/yourdapp-banner.png",
-    "previewUrl": "/dapps/yourdapp/yourdapp-preview.png",
+    "logoUrl": "/dapps/yourdapp/yourdapp-logo.webp",
+    "bannerUrl": "/dapps/yourdapp/yourdapp-banner.webp",
+    "previewUrl": "/dapps/yourdapp/yourdapp-preview.webp",
     … etc
   }
 ```
