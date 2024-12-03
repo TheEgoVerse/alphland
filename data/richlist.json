@@ -7,7 +7,6 @@
   "audits": [],
   "verified": false,
   "councils_choice": true,
-
   "dotw": false,
   "links": {
     "website": "https://richlist.alephium.world/",
@@ -29,9 +28,9 @@
   "tokens": [],
   "nft": {},
   "media": {
-    "logoUrl": "/dapps/alephium-richlist/alephiumrichlist-logo.webp",
-    "bannerUrl": "/dapps/alephium-richlist/alephiumrichlist-banner.webp",
-    "previewUrl": "/dapps/alephium-richlist/alephiumrichlist-banner.webp",
+    "logoUrl": "/dapps/richlist/richlist-logo.webp",
+    "bannerUrl": "/dapps/richlist/richlist-banner.webp",
+    "previewUrl": "/dapps/richlist/richlist-preview.webp",
     "videoUrl": "",
     "gallery": []
   }

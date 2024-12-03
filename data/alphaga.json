@@ -40,9 +40,9 @@
     }
   ],
   "media": {
-    "logoUrl": "/dapps/alphaga/logo.webp",
-    "bannerUrl": "/dapps/alphaga/banner.webp",
-    "previewUrl": "/dapps/alphaga/preview.webp",
+    "logoUrl": "/dapps/alphaga/alphaga-logo.webp",
+    "bannerUrl": "/dapps/alphaga/alphaga-banner.webp",
+    "previewUrl": "/dapps/alphaga/alphaga-preview.webp",
     "videoUrl": "",
     "gallery": [{}]
   }

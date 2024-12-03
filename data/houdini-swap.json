@@ -23,9 +23,9 @@
     "anonymous": true
   },
   "media": {
-    "logoUrl": "/dapps/houdini-swap/iconHS.webp",
-    "bannerUrl": "/dapps/houdini-swap/bannerHS.webp",
-    "previewUrl": "/dapps/houdini-swap/previewHS.webp"
+    "logoUrl": "/dapps/houdini-swap/houdini-swap-logo.webp",
+    "bannerUrl": "/dapps/houdini-swap/houdini-swap-banner.webp",
+    "previewUrl": "/dapps/houdini-swap/houdini-swap-preview.webp"
   },
   "audits": [],
   "tokens": []

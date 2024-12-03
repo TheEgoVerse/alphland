@@ -24,9 +24,9 @@
     "anonymous": false
   },
   "media": {
-    "logoUrl": "/dapps/alephium-official-wallets/Icon.webp",
-    "bannerUrl": "/dapps/alephium-official-wallets/Banner.webp",
-    "previewUrl": "/dapps/alephium-official-wallets/Preview.webp"
+    "logoUrl": "/dapps/alephium-official-wallets/alephium-official-wallets-logo.webp",
+    "bannerUrl": "/dapps/alephium-official-wallets/alephium-official-wallets-banner.webp",
+    "previewUrl": "/dapps/alephium-official-wallets/alephium-official-wallets-preview.webp"
   },
   "audits": [],
   "tokens": []

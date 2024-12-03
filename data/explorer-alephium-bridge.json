@@ -26,9 +26,9 @@
     "anonymous": false
   },
   "media": {
-    "logoUrl": "/dapps/explorer-alephium-bridge/dapp-icon-alephium-bridge.webp",
-    "bannerUrl": "/dapps/explorer-alephium-bridge/dapp-header-alephium-bridge.webp",
-    "previewUrl": "/dapps/explorer-alephium-bridge/dapp-preview-alephium-bridge.webp"
+    "logoUrl": "/dapps/explorer-alephium-bridge/explorer-alephium-bridge-logo.webp",
+    "bannerUrl": "/dapps/explorer-alephium-bridge/explorer-alephium-bridge-banner.webp",
+    "previewUrl": "/dapps/explorer-alephium-bridge/explorer-alephium-bridge-preview.webp"
   },
   "audits": [],
   "tokens": []

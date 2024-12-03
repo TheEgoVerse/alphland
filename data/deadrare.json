@@ -46,9 +46,9 @@
     ]
   },
   "media": {
-    "logoUrl": "/dapps/deadrare/dapp-icon-deadrare.webp",
-    "bannerUrl": "/dapps/deadrare/dapp-header-deadrare.webp",
-    "previewUrl": "/dapps/deadrare/dapp-preview-deadrare.webp",
+    "logoUrl": "/dapps/deadrare/deadrare-logo.webp",
+    "bannerUrl": "/dapps/deadrare/deadrare-banner.webp",
+    "previewUrl": "/dapps/deadrare/deadrare-preview.webp",
     "videoUrl": "",
     "gallery": []
   }

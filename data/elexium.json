@@ -1,7 +1,7 @@
 {
   "name": "Elexium Finance",
-  "description": "Welcome to Elexium: The People's Choice. Enter the arena to explore what aims to be Alephium's liquidity centre, steeped in Ancient Greek wisdom and Demokratia. Utilising a vote escrowed model, we are for the people, by the people, and your Elexium NFT locks serve as your ticket to the ecosystem.",
-  "short_description": "Elexium: The People's Choice",
+  "description": "Welcome to Elexium: The People\u0027s Choice. Enter the arena to explore what aims to be Alephium\u0027s liquidity centre, steeped in Ancient Greek wisdom and Demokratia. Utilising a vote escrowed model, we are for the people, by the people, and your Elexium NFT locks serve as your ticket to the ecosystem.",
+  "short_description": "Elexium: The People\u0027s Choice",
   "tags": ["DeFi"],
   "contracts": [],
   "audits": [],
@@ -33,8 +33,8 @@
   ],
   "nft": {},
   "media": {
-    "logoUrl": "/dapps/elexium/logo.webp",
-    "bannerUrl": "/dapps/elexium/preview.webp",
-    "previewUrl": "/dapps/elexium/preview.webp"
+    "logoUrl": "/dapps/elexium/elexium-logo.webp",
+    "bannerUrl": "/dapps/elexium/elexium-banner.webp",
+    "previewUrl": "/dapps/elexium/elexium-preview.webp"
   }
 }

@@ -8,7 +8,6 @@
   "verified": false,
   "dotw": false,
   "councils_choice": true,
-
   "links": {
     "website": "https://sezame.app/",
     "careers": "",
@@ -29,9 +28,9 @@
   "tokens": [],
   "nft": {},
   "media": {
-    "logoUrl": "/dapps/sezame-wallet/sezame-logo.webp",
-    "bannerUrl": "/dapps/sezame-wallet/sezame-banner.webp",
-    "previewUrl": "/dapps/sezame-wallet/sezame-preview.webp",
+    "logoUrl": "/dapps/sezame-wallet/sezame-wallet-logo.webp",
+    "bannerUrl": "/dapps/sezame-wallet/sezame-wallet-banner.webp",
+    "previewUrl": "/dapps/sezame-wallet/sezame-wallet-preview.webp",
     "videoUrl": "",
     "gallery": [
       {

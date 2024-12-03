@@ -8,7 +8,6 @@
   "verified": false,
   "councils_choice": true,
   "dotw": false,
-
   "links": {
     "website": "https://alphyhub.com",
     "careers": "",
@@ -30,9 +29,9 @@
   "tokens": [],
   "nft": "",
   "media": {
-    "logoUrl": "/dapps/alphy/alphy_logo.webp",
-    "bannerUrl": "/dapps/alphy/alphy_banner.webp",
-    "previewUrl": "/dapps/alphy/alphy_preview.webp",
+    "logoUrl": "/dapps/alphy/alphy-logo.webp",
+    "bannerUrl": "/dapps/alphy/alphy-banner.webp",
+    "previewUrl": "/dapps/alphy/alphy-preview.webp",
     "videoUrl": "",
     "gallery": []
   }

@@ -27,8 +27,8 @@
     "anonymous": true
   },
   "media": {
-    "logoUrl": "/dapps/candyswap/icon.webp",
-    "bannerUrl": "/dapps/candyswap/header.webp",
-    "previewUrl": "/dapps/candyswap/preview.webp"
+    "logoUrl": "/dapps/candyswap/candyswap-logo.webp",
+    "bannerUrl": "/dapps/candyswap/candyswap-banner.webp",
+    "previewUrl": "/dapps/candyswap/candyswap-preview.webp"
   }
 }

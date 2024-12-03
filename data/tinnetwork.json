@@ -7,7 +7,6 @@
   "audits": [],
   "verified": false,
   "councils_choice": true,
-
   "dotw": false,
   "links": {
     "website": "https://tin.network",
@@ -29,9 +28,9 @@
   "tokens": [],
   "nft": {},
   "media": {
-    "logoUrl": "/dapps/tinnetwork/logo.webp",
-    "bannerUrl": "/dapps/tinnetwork/banner.webp",
-    "previewUrl": "/dapps/tinnetwork/banner.webp",
+    "logoUrl": "/dapps/tinnetwork/tinnetwork-logo.webp",
+    "bannerUrl": "/dapps/tinnetwork/tinnetwork-banner.webp",
+    "previewUrl": "/dapps/tinnetwork/tinnetwork-preview.webp",
     "videoUrl": "",
     "gallery": []
   }

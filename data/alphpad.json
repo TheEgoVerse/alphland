@@ -38,9 +38,9 @@
   ],
   "nft": {},
   "media": {
-    "logoUrl": "/dapps/alphpad/alphpad-alphland-logo.webp",
-    "bannerUrl": "/dapps/alphpad/alphpad-alphland-banner.webp",
-    "previewUrl": "/dapps/alphpad/alphpad-alphland-preview.webp",
+    "logoUrl": "/dapps/alphpad/alphpad-logo.webp",
+    "bannerUrl": "/dapps/alphpad/alphpad-banner.webp",
+    "previewUrl": "/dapps/alphpad/alphpad-preview.webp",
     "videoUrl": "",
     "gallery": []
   }

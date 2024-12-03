@@ -1,13 +1,12 @@
 {
   "name": "Blockflow Visualizer",
   "description": "This app visualizes Blockflow, Alephiums sharding algorithm in 3D and exposes a websocket stream for other developers.",
-  "short_description": "Blockflow 3D visualizer & public block stream websocket",
+  "short_description": "Blockflow 3D visualizer \u0026 public block stream websocket",
   "tags": ["Tooling", "Stats"],
   "contracts": [],
   "audits": [],
   "verified": false,
   "councils_choice": true,
-
   "dotw": false,
   "links": {
     "website": "https://visualizer.alph.land/",
@@ -29,9 +28,9 @@
   "tokens": [],
   "nft": {},
   "media": {
-    "logoUrl": "/dapps/blockflow-visualizer/visualizer-logo.webp",
-    "bannerUrl": "/dapps/blockflow-visualizer/visualizer-banner.webp",
-    "previewUrl": "/dapps/blockflow-visualizer/visualizer-preview.webp",
+    "logoUrl": "/dapps/blockflow-visualizer/blockflow-visualizer-logo.webp",
+    "bannerUrl": "/dapps/blockflow-visualizer/blockflow-visualizer-banner.webp",
+    "previewUrl": "/dapps/blockflow-visualizer/blockflow-visualizer-preview.webp",
     "videoUrl": "",
     "gallery": []
   }

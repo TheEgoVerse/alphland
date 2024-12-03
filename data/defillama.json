@@ -7,7 +7,6 @@
   "audits": [],
   "verified": false,
   "councils_choice": true,
-
   "dotw": false,
   "links": {
     "website": "https://defillama.com/chain/Alephium?staking=true",
@@ -31,7 +30,7 @@
   "media": {
     "logoUrl": "/dapps/defillama/defillama-logo.webp",
     "bannerUrl": "/dapps/defillama/defillama-banner.webp",
-    "previewUrl": "/dapps/defillama/defillama-banner.webp",
+    "previewUrl": "/dapps/defillama/defillama-preview.webp",
     "videoUrl": "",
     "gallery": []
   }

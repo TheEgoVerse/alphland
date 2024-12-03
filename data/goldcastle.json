@@ -93,9 +93,9 @@
     ]
   },
   "media": {
-    "logoUrl": "/dapps/goldcastle/gold-castle-logo.webp",
-    "bannerUrl": "/dapps/goldcastle/gold-castle-banner.webp",
-    "previewUrl": "/dapps/goldcastle/gold-castle-preview.webp",
+    "logoUrl": "/dapps/goldcastle/goldcastle-logo.webp",
+    "bannerUrl": "/dapps/goldcastle/goldcastle-banner.webp",
+    "previewUrl": "/dapps/goldcastle/goldcastle-preview.webp",
     "videoUrl": "",
     "gallery": [
       {

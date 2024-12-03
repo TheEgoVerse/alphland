@@ -27,8 +27,8 @@
   "audits": [],
   "tokens": [],
   "media": {
-    "logoUrl": "/dapps/yodh/logo.webp",
-    "bannerUrl": "/dapps/yodh/banner.webp",
-    "previewUrl": "/dapps/yodh/preview.webp"
+    "logoUrl": "/dapps/yodh/yodh-logo.webp",
+    "bannerUrl": "/dapps/yodh/yodh-banner.webp",
+    "previewUrl": "/dapps/yodh/yodh-preview.webp"
   }
 }

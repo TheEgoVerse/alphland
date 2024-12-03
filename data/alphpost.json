@@ -8,7 +8,6 @@
   "verified": false,
   "dotw": false,
   "councils_choice": true,
-
   "links": {
     "website": "https://alphpost.com/",
     "careers": "",
@@ -29,9 +28,9 @@
   "tokens": [],
   "nft": {},
   "media": {
-    "logoUrl": "/dapps/alphpost/logo.webp",
-    "bannerUrl": "/dapps/alphpost/banner.webp",
-    "previewUrl": "/dapps/alphpost/preview.webp",
+    "logoUrl": "/dapps/alphpost/alphpost-logo.webp",
+    "bannerUrl": "/dapps/alphpost/alphpost-banner.webp",
+    "previewUrl": "/dapps/alphpost/alphpost-preview.webp",
     "videoUrl": "",
     "gallery": []
   }

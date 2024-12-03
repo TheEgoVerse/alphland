@@ -7,7 +7,6 @@
   "audits": [],
   "verified": false,
   "councils_choice": true,
-
   "dotw": false,
   "links": {
     "website": "https://dashboard.notrustverify.ch/d/MggjRL1Vz/overall-stats?orgId=1",
@@ -29,9 +28,9 @@
   "tokens": [],
   "nft": {},
   "media": {
-    "logoUrl": "/dapps/ntv-overalldashboard/logo.webp",
-    "bannerUrl": "/dapps/ntv-overalldashboard/banner.webp",
-    "previewUrl": "/dapps/ntv-overalldashboard/banner.webp",
+    "logoUrl": "/dapps/ntv-overalldashboard/ntv-overalldashboard-logo.webp",
+    "bannerUrl": "/dapps/ntv-overalldashboard/ntv-overalldashboard-banner.webp",
+    "previewUrl": "/dapps/ntv-overalldashboard/ntv-overalldashboard-preview.webp",
     "videoUrl": "",
     "gallery": []
   }

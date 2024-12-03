@@ -4,7 +4,6 @@
   "short_description": "DEX",
   "tags": ["DeFi", "Infrastructure"],
   "councils_choice": true,
-
   "contracts": [
     {
       "name": "AYIN token",
@@ -29,7 +28,7 @@
   },
   "twitterName": "",
   "teamInfo": {
-    "contactEmail": "<Email address>",
+    "contactEmail": "\u003cEmail address\u003e",
     "founded": "2023-07-31T00:00:00.000Z",
     "anonymous": true
   },
@@ -40,9 +39,9 @@
     }
   ],
   "media": {
-    "logoUrl": "/dapps/ayin/dapp-icon-ayin.webp",
-    "bannerUrl": "/dapps/ayin/dapp-header-ayin.webp",
-    "previewUrl": "/dapps/ayin/dapp-header-ayin.webp",
+    "logoUrl": "/dapps/ayin/ayin-logo.webp",
+    "bannerUrl": "/dapps/ayin/ayin-banner.webp",
+    "previewUrl": "/dapps/ayin/ayin-preview.webp",
     "videoUrl": "",
     "gallery": [{}]
   }

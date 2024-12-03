@@ -7,7 +7,6 @@
   "audits": [],
   "verified": false,
   "councils_choice": true,
-
   "dotw": false,
   "links": {
     "website": "https://dune.com/kov0x/alephium-alphbridge",
@@ -29,9 +28,9 @@
   "tokens": [],
   "nft": {},
   "media": {
-    "logoUrl": "/dapps/ntv-overalldashboard/logo.webp",
-    "bannerUrl": "/dapps/ntv-dune/banner.webp",
-    "previewUrl": "/dapps/ntv-dune/banner.webp",
+    "logoUrl": "/dapps/ntv-dune/ntv-dune-logo.webp",
+    "bannerUrl": "/dapps/ntv-dune/ntv-dune-banner.webp",
+    "previewUrl": "/dapps/ntv-dune/ntv-dune-preview.webp",
     "videoUrl": "",
     "gallery": []
   }

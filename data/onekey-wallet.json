@@ -8,7 +8,6 @@
   "verified": false,
   "dotw": false,
   "councils_choice": true,
-
   "links": {
     "website": "https://onekey.so/",
     "careers": "",
@@ -29,9 +28,9 @@
   "tokens": [],
   "nft": {},
   "media": {
-    "logoUrl": "/dapps/onekey-wallet/logo.webp",
-    "bannerUrl": "/dapps/onekey-wallet/banner.webp",
-    "previewUrl": "/dapps/onekey-wallet/preview.webp",
+    "logoUrl": "/dapps/onekey-wallet/onekey-wallet-logo.webp",
+    "bannerUrl": "/dapps/onekey-wallet/onekey-wallet-banner.webp",
+    "previewUrl": "/dapps/onekey-wallet/onekey-wallet-preview.webp",
     "videoUrl": "",
     "gallery": [
       {

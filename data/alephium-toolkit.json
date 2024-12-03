@@ -7,7 +7,6 @@
   "verified": true,
   "dotw": false,
   "councils_choice": true,
-
   "links": {
     "website": "https://alephium.github.io/alephium-toolkit/#/multisig/create",
     "careers": "",
@@ -27,9 +26,9 @@
     "anonymous": false
   },
   "media": {
-    "logoUrl": "/dapps/alephium-toolkit/alephium-toolkit-icon.webp",
+    "logoUrl": "/dapps/alephium-toolkit/alephium-toolkit-logo.webp",
     "bannerUrl": "/dapps/alephium-toolkit/alephium-toolkit-banner.webp",
-    "previewUrl": "/dapps/alephium-toolkit/alephium-toolkit-banner.webp"
+    "previewUrl": "/dapps/alephium-toolkit/alephium-toolkit-preview.webp"
   },
   "audits": [],
   "tokens": []

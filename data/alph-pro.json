@@ -1,14 +1,13 @@
 {
   "name": "Alph.Pro",
-  "description": "Track your portfolio performance & explore DeFi opportunities on Alephium",
-  "short_description": "Portfolio Tacking, DeFi Discovery, & On-chain Exploration",
+  "description": "Track your portfolio performance \u0026 explore DeFi opportunities on Alephium",
+  "short_description": "Portfolio Tacking, DeFi Discovery, \u0026 On-chain Exploration",
   "tags": ["DeFi", "NFTs", "Social", "Infrastructure"],
   "contracts": [],
   "audits": [],
   "verified": false,
   "dotw": false,
   "councils_choice": true,
-
   "links": {
     "website": "https://alph.pro",
     "careers": "",
@@ -47,9 +46,9 @@
     ]
   },
   "media": {
-    "logoUrl": "/dapps/alph-pro/logo-320x320.webp",
-    "bannerUrl": "/dapps/alph-pro/banner-1920x400.webp",
-    "previewUrl": "/dapps/alph-pro/preview-700x400.webp",
+    "logoUrl": "/dapps/alph-pro/alph-pro-logo.webp",
+    "bannerUrl": "/dapps/alph-pro/alph-pro-banner.webp",
+    "previewUrl": "/dapps/alph-pro/alph-pro-preview.webp",
     "videoUrl": "",
     "gallery": []
   }
