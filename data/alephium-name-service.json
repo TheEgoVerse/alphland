@@ -51,8 +51,8 @@
     ]
   },
   "media": {
-    "logoUrl": "/dapps/alephium-name-service/icon.webp",
-    "bannerUrl": "/dapps/alephium-name-service/header.webp",
-    "previewUrl": "/dapps/alephium-name-service/preview.webp"
+    "logoUrl": "/dapps/alephium-name-service/alephium-name-service-logo.webp",
+    "bannerUrl": "/dapps/alephium-name-service/alephium-name-service-banner.webp",
+    "previewUrl": "/dapps/alephium-name-service/alephium-name-service-preview.webp"
   }
 }

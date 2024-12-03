@@ -50,8 +50,8 @@
     ]
   },
   "media": {
-    "logoUrl": "/dapps/alephium-battle/alephium-battle-icon.webp",
-    "bannerUrl": "/dapps/alephium-battle/alephium-battle-header.webp",
+    "logoUrl": "/dapps/alephium-battle/alephium-battle-logo.webp",
+    "bannerUrl": "/dapps/alephium-battle/alephium-battle-banner.webp",
     "previewUrl": "/dapps/alephium-battle/alephium-battle-preview.webp",
     "videoUrl": "https://res.cloudinary.com/dsvjonjtu/video/upload/f_auto,q_auto/v1711651482/Card_Game_Opener_2_2_1_c6rx3k.webm",
     "gallery": [

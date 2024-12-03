@@ -29,9 +29,9 @@
   "tokens": [],
   "nft": {},
   "media": {
-    "logoUrl": "/dapps/alephium-explorer/logo.svg",
-    "bannerUrl": "/dapps/alephium-explorer/banner.webp",
-    "previewUrl": "/dapps/alephium-explorer/banner.webp",
+    "logoUrl": "/dapps/alephium-explorer/alephium-explorer-logo.webp",
+    "bannerUrl": "/dapps/alephium-explorer/alephium-explorer-banner.webp",
+    "previewUrl": "/dapps/alephium-explorer/alephium-explorer-preview.webp",
     "videoUrl": "",
     "gallery": []
   }
