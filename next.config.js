@@ -31,7 +31,6 @@ const nextConfig = {
   },
   experimental: {
     scrollRestoration: true,
-    images: { allowFutureImage: true },
   },
   async rewrites() {
     return [
