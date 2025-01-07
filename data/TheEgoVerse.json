@@ -5,9 +5,11 @@
   // Run 'npm run build' to make sure the SSG works.
   // Please delete this and all other comments <3
 
-  "name": "<Name of your Dapp>",
-  "description": "<100 to 500 characters description of your project>",
-  "short_description": "<One-liner description. Max 20 characters>",
+  "name": "<The EgoVerse The First Strike>",
+  "description": "<Set in a dystopian future where gangs rule the streets and a constant power struggle rages against a weakened government, The First Strike (TFS) immerses players in a world on the brink of chaos. This free-to-play, sci-fi first-person shooter offers thrilling multiplayer and zombie modes, each with a variety of exciting game configurations.
+Featuring a diverse roster of characters from The EgoVerse collections and our partner projects, TFS delivers a truly unique and immersive gaming experience. With enhanced core mechanics, stunning graphics, and brand-new game modes, TFS is designed to captivate and engage players. Explore a variety of maps, including The Mall, Warehouse, and The Cut, each offering distinct challenges and environments.
+Our game supports both low-end and high-end Windows PCs and laptops, ensuring that a broad range of players can join the action. Get ready to experience the future of sci-fi shooters with The First Strike.>",
+  "short_description": "<SciFi Distopian FPS>",
   "tags": [
     "Onramps",
     "Bridges",
@@ -48,22 +50,22 @@
   "councils_choice": false,
   //leave 'false'
   "links": {
-    "website": "<URL of the dapp's website. Leave empty if non-existent>",
-    "careers": "<URL of the dapp's carreer page. Can also be 'mailto:example@mydapp.com'. Leave empty if non-existent>",
-    "twitter": "<URL of the dapp's Twitter account>. Leave empty if non-existent",
-    "telegram": "<URL of the dapp's Telegram>. Leave empty if non-existent",
-    "discord": "<URL of the dapp's Discord invite>. Leave empty if non-existent",
-    "github": "<URL of the dapp's Github>. Leave empty if non-existent",
-    "youtube": "<URL of the dapp's Youtube channel>. Leave empty if non-existent",
-    "medium": "<URL of the dapp's Medium>. Leave empty if non-existent",
-    "mirror": "<URL of the dapp's Mirror page>. Leave empty if non-existent",
-    "linkedin": "<URL of the dapp's LinkedIn page>. Leave empty if non-existent"
+    "website": "<https://www.theegoverse.com/>",
+    "careers": "<>",
+    "twitter": "<https://x.com/EgoVersusTFS>",
+    "telegram": "<>",
+    "discord": "<https://discord.gg/4Zuxh9jKu9>.",
+    "github": "<URL of the dapp's Github>. ",
+    "youtube": "<https://www.youtube.com/@TheEgoVerse>.",
+    "medium": "<>. ",
+    "mirror": "<>. ",
+    "linkedin": "<>."
   },
-  "twitterName": "Twitter username. Leave empty if none",
+  "twitterName": ". Leave empty if none",
   "teamInfo": {
-    "contactEmail": "<Email address>",
+    "contactEmail": "<Business@theegoverse.com>",
     // For Alphland to be able to contact you. Will not be published on Alphland.
-    "founded": "Founding date of the project. EXAMPLE: 2022-05-24T00:00:00.000Z",
+    "founded 2021-12-25": "Founding date of the project. ,
     "anonymous": true
     // If at least one of the founders has a public profile with their real name linked to the project, set this to true.
   },
@@ -89,7 +91,7 @@
     ]
   },
   "media": {
-    "logoUrl": "/dapps/yourdappname/yourdappname-logo.[png, jpg or webp] Resolution: 320 × 320 pixels>",
+    "logoUrl": "/dapps/TheEgoVerse/TheEgoVerse-logo.[png, jpg or webp] Resolution: 320 × 320 pixels>",
     "bannerUrl": "/dapps/yourdappname/yourdappname-banner.[png, jpg or webp] Resolution: 1920 × 400 pixels>",
     "previewUrl": "/dapps/yourdappname/yourdappname-preview.[png, jpg or webp] Resolution: 700 × 400 pixels>",
     "videoUrl": "<URL for a video of the dapp (hosted externally)>",
