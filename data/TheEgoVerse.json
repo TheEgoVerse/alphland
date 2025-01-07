@@ -48,10 +48,10 @@
     ]
   },
   "media": {
-    "logoUrl": "/dapps/TheEgoVerse/logo.[png, jpg or webp] Resolution: 320 × 320 pixels>",
-    "bannerUrl": "/dapps/TheEgoVerse/banner.[png, jpg or webp] Resolution: 1920 × 400 pixels>",
-    "previewUrl": "/dapps/TheEgoVerse/preview.[png, jpg or webp] Resolution: 700 × 400 pixels>",
-    "videoUrl": "<URL for a video of the dapp (hosted externally)>",
+    "logoUrl": "/dapps/TheEgoVerse/logo.",
+    "bannerUrl": "/dapps/TheEgoVerse/banner.",
+    "previewUrl": "/dapps/TheEgoVerse/preview.",
+    "videoUrl": "",
     "gallery": [
       {
         "url": " ",
