@@ -29,8 +29,7 @@
   "twitterName": ". Leave empty if none",
   "teamInfo": {
     "contactEmail": "Business@theegoverse.com",
-    // For Alphland to be able to contact you. Will not be published on Alphland.
-    "founded 2021-12-25": "Founding date of the project. ,
+    "founded 2021-12-25": 
     "anonymous": true
     // If at least one of the founders has a public profile with their real name linked to the project, set this to true.
   },
