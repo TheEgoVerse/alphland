@@ -50,16 +50,16 @@ Our game supports both low-end and high-end Windows PCs and laptops, ensuring th
   "councils_choice": false,
   //leave 'false'
   "links": {
-    "website": "<https://www.theegoverse.com/>",
+    "website": "https://www.theegoverse.com/",
     "careers": "<>",
-    "twitter": "<https://x.com/EgoVersusTFS>",
-    "telegram": "<>",
-    "discord": "<https://discord.gg/4Zuxh9jKu9>.",
-    "github": "<URL of the dapp's Github>. ",
-    "youtube": "<https://www.youtube.com/@TheEgoVerse>.",
-    "medium": "<>. ",
-    "mirror": "<>. ",
-    "linkedin": "<>."
+    "twitter": "https://x.com/EgoVersusTFS",
+    "telegram": ",
+    "discord": "https://discord.gg/4Zuxh9jKu9",
+    "github": "<URL of the dapp's Github",
+    "youtube": "https://www.youtube.com/@TheEgoVerse",
+    "medium": " ",
+    "mirror": " ",
+    "linkedin": ""
   },
   "twitterName": ". Leave empty if none",
   "teamInfo": {
@@ -91,9 +91,9 @@ Our game supports both low-end and high-end Windows PCs and laptops, ensuring th
     ]
   },
   "media": {
-    "logoUrl": "/dapps/TheEgoVerse/TheEgoVerse-logo.[png, jpg or webp] Resolution: 320 × 320 pixels>",
-    "bannerUrl": "/dapps/yourdappname/yourdappname-banner.[png, jpg or webp] Resolution: 1920 × 400 pixels>",
-    "previewUrl": "/dapps/yourdappname/yourdappname-preview.[png, jpg or webp] Resolution: 700 × 400 pixels>",
+    "logoUrl": "/dapps/TheEgoVerse/logo.[png, jpg or webp] Resolution: 320 × 320 pixels>",
+    "bannerUrl": "/dapps/yourdappname/banner.[png, jpg or webp] Resolution: 1920 × 400 pixels>",
+    "previewUrl": "/dapps/yourdappname/preview.[png, jpg or webp] Resolution: 700 × 400 pixels>",
     "videoUrl": "<URL for a video of the dapp (hosted externally)>",
     "gallery": [
       {
