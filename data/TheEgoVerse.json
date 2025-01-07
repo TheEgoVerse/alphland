@@ -11,16 +11,12 @@ Featuring a diverse roster of characters from The EgoVerse collections and our p
 Our game supports both low-end and high-end Windows PCs and laptops, ensuring that a broad range of players can join the action. Get ready to experience the future of sci-fi shooters with The First Strike.",
   "short_description": "SciFi Distopian FPS",
   "tags": [
-    "Onramps",
-    "Bridges",
+   
     "DeFi",
     "Games",
     "NFTs",
     "Social",
-    "DAOs",
-    "Infrastructure",
-    "Wallets",
-    "Security",
+   
     "Hashrate", // anything pool, mining, PoW etc. related
     "Stats",
     // if not live yet:
@@ -63,7 +59,7 @@ Our game supports both low-end and high-end Windows PCs and laptops, ensuring th
   },
   "twitterName": ". Leave empty if none",
   "teamInfo": {
-    "contactEmail": "<Business@theegoverse.com>",
+    "contactEmail": "Business@theegoverse.com",
     // For Alphland to be able to contact you. Will not be published on Alphland.
     "founded 2021-12-25": "Founding date of the project. ,
     "anonymous": true
@@ -92,8 +88,8 @@ Our game supports both low-end and high-end Windows PCs and laptops, ensuring th
   },
   "media": {
     "logoUrl": "/dapps/TheEgoVerse/logo.[png, jpg or webp] Resolution: 320 × 320 pixels>",
-    "bannerUrl": "/dapps/yourdappname/banner.[png, jpg or webp] Resolution: 1920 × 400 pixels>",
-    "previewUrl": "/dapps/yourdappname/preview.[png, jpg or webp] Resolution: 700 × 400 pixels>",
+    "bannerUrl": "/dapps/TheEgoVerse/banner.[png, jpg or webp] Resolution: 1920 × 400 pixels>",
+    "previewUrl": "/dapps/TheEgoVerse/preview.[png, jpg or webp] Resolution: 700 × 400 pixels>",
     "videoUrl": "<URL for a video of the dapp (hosted externally)>",
     "gallery": [
       {
