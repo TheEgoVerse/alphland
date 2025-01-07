@@ -8,38 +8,13 @@
   "name": "<The EgoVerse The First Strike>",
   "description": "Set in a dystopian future where gangs rule the streets and a constant power struggle rages against a weakened government, The First Strike (TFS) immerses players in a world on the brink of chaos. This free-to-play, sci-fi first-person shooter offers thrilling multiplayer and zombie modes, each with a variety of exciting game configurations.
 Featuring a diverse roster of characters from The EgoVerse collections and our partner projects, TFS delivers a truly unique and immersive gaming experience. With enhanced core mechanics, stunning graphics, and brand-new game modes, TFS is designed to captivate and engage players. Explore a variety of maps, including The Mall, Warehouse, and The Cut, each offering distinct challenges and environments.
-Our game supports both low-end and high-end Windows PCs and laptops, ensuring that a broad range of players can join the action. Get ready to experience the future of sci-fi shooters with The First Strike.",
+. Get ready to experience the future of sci-fi shooters with The First Strike.",
   "short_description": "SciFi Distopian FPS",
-  "tags": [
-   
-    "DeFi",
-    "Games",
-    "NFTs",
-    "Social",
-   
-    "Hashrate", // anything pool, mining, PoW etc. related
-    "Stats",
-    // if not live yet:
-    "ComingSoon"
-  ],
+  "tags": [ "Games","NFTs","Social",
+      
+    "Hashrate", 
+    "Beta",
   "group": "<If applicable, on which group your dApp is deployed. Example: Group 0>",
-  // Remove all that don't apply.
-  "contracts": [
-    {
-      "name": "<Name of Mainnet contract 1 (remove entry in array if it doesn't apply, add more entries if there are more contracts)>",
-      "address": "<Address of Mainnet contract 1>"
-    },
-    {
-      "name": "<Name of Mainnet contract 2 (remove entry in array if it doesn't apply, add more entries if there are more contracts)>",
-      "address": "<Address of Mainnet contract 2>"
-    }
-  ],
-  "audits": [
-    {
-      "name": "<Name of the publicly available Security Audit. Remove entry from 'audits' array if non-existent. Add more entries to the 'audits' array if relevant>",
-      "url": "URL to access the security audit. Only audits that are publicly available will be considered to be included in Alphland. If they're private, please don't include them in the 'audits' array>"
-    }
-  ],
   "verified": false,
   // change to true if your contracts are verified on Alephium
   "dotw": false,
